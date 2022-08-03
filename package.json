@@ -11,5 +11,19 @@
   },
   "engines": {
     "npm": ">5"
-  }
+  },
+  "description": "In this workshop, you'll build a minimal landing page for an agency.",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slimake/huckleberry.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slimake/huckleberry/issues"
+  },
+  "homepage": "https://github.com/Slimake/huckleberry#readme"
 }
